@@ -73,6 +73,10 @@
                             <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4" data-dismiss="modal">Fechar</button>
                         </div>
 
+                           <!--PAINT-->
+                            <iframe  width="800" height="500" src="https://jspaint.ml" scrolling="no" frameborder="no"></iframe>
+                        <!--PAINT-->
+
                     </div>
                     <!--/.Content-->
 
@@ -158,13 +162,10 @@
         <!-- Grid column 3-->
       </div>
       <!-- Grid final row 1 -->
-      <!--PAINT-->
-      <iframe  width="800" height="500" src="https://jspaint.ml" scrolling="no" frameborder="no"></iframe>
-      <!--PAINT-->
     </div>
     
     <!-- Footer -->
-    <footer class="py-5 bg-dark">
+    <footer class="py-5 bg-dark" style="position:absolute;bottom:0;width:100%">
       <div class="container">
         <p class="m-0 text-center text-white">Copyright &copy; GeoEnsina 2018</p>
       </div>
